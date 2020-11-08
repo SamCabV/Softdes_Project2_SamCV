@@ -1,4 +1,4 @@
-# Softdes_Project2_SamCV
+# Softdes Project2, is Poetry Zipfy?
  Data Collection and Prossesing Project for Olin College Class Software Design 
  
  The aim of this project is to determine if poetry follows Zipfs law, or that 
