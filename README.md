@@ -37,7 +37,7 @@
  #### Pandas
  
  Pandas creates dataframes that makes managign and organizing large groups of data a lot
- easier, if you hava anaconda it's included otherwise download guide [here](https://pandas.pydata.org/docs/getting_started/install.html)
+ easier, if you have anaconda it's included otherwise download guide [here](https://pandas.pydata.org/docs/getting_started/install.html)
  
  #### Scipy
  
